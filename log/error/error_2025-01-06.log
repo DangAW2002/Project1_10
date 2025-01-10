@@ -1,0 +1,16 @@
+2025-01-06 10:55:58,791 - ERROR - Error during execute function
+response: [config_update_new_firmware(dev_id='dev1', parameter='đúng')]
+Function name: config_update_new_firmware
+Arguments: {'dev_id': 'dev1', 'parameter': 'đúng'}
+Exception: config_update_new_firmware() got an unexpected keyword argument 'parameter'
+2025-01-06 10:55:59,612 - ERROR - Error during execute function
+response: [config_update_new_firmware(dev_id='dev1', parameter='đúng')]
+Function name: config_update_new_firmware
+Arguments: {'dev_id': 'dev1', 'parameter': 'đúng'}
+Exception: config_update_new_firmware() got an unexpected keyword argument 'parameter'
+2025-01-06 10:56:00,435 - ERROR - Error during execute function
+response: [config_update_new_firmware(dev_id='dev1', parameter='đúng')]
+Function name: config_update_new_firmware
+Arguments: {'dev_id': 'dev1', 'parameter': 'đúng'}
+Exception: config_update_new_firmware() got an unexpected keyword argument 'parameter'
+2025-01-06 10:56:12,581 - ERROR - `temperature` (=0.0) has to be a strictly positive float, otherwise your next token scores will be invalid. If you're looking for greedy decoding strategies, set `do_sample=False`.

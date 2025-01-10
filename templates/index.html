@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Chatbot</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    body {
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      background-color: #f5f5f5;
+    }
+    
+    .chat-container {
+      background-color: #fff;
+      width: 400px;
+      height: 500px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+    
+    .chat-box {
+      padding: 10px;
+      overflow-y: auto;
+      height: 80%;
+      border-bottom: 1px solid #eee;
+    }
+    
+    .input-container {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px;
+      background-color: #f9f9f9;
+      border-top: 1px solid #eee;
+    }
+    
+    input {
+      width: 80%;
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    
+    button {
+      padding: 10px 15px;
+      background-color: #007bff;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    button:hover {
+      background-color: #0056b3;
+    }
+    
+    .reset-button {
+      padding: 10px 15px;
+      background-color: #dc3545;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      margin-left: 10px;
+    }
+    
+    .reset-button:hover {
+      background-color: #c82333;
+    }
+    
+    .message {
+      margin: 10px 0;
+      padding: 8px 15px;
+      border-radius: 10px;
+      max-width: 80%;
+    }
+    
+    .user-message {
+      background-color: #007bff;
+      color: white;
+      align-self: flex-end;
+    }
+    
+    .bot-message {
+      background-color: #f1f1f1;
+      color: #333;
+      align-self: flex-start;
+    }
+  </style>
+  <link rel="icon" href="data:," /> <!-- Add this line to suppress favicon request -->
+</head>
+<body>
+  <div class="chat-container">
+    <div class="chat-box" id="chatBox"></div>
+    <div class="input-container">
+      <input type="text" id="userInput" placeholder="Type a message..." />
+      <button onclick="sendMessage()">Send</button>
+      <button class="reset-button" onclick="resetChat()">Reset</button>
+    </div>
+  </div>
+
+  <script>
+    async function sendMessage() {
+      const userInput = document.getElementById("userInput").value;
+      if (userInput.trim() === "") return;
+    
+      displayMessage(userInput, "user");
+      document.getElementById("userInput").value = "";
+    
+      console.log('Sending message:', userInput);
+    
+      const response = await fetch("http://192.168.21.250:5000/run_conversation", {
+        method: "POST",
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({ message: userInput })
+      });
+    
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+    
+      const data = await response.json();
+      console.log('Received response:', data);
+      setTimeout(() => {
+        displayMessage(data.response, "bot");
+      }, 1000); // Delay the bot response by 1 second
+    }
+    
+    function displayMessage(message, sender) {
+      console.log('Displaying message:', message, 'from', sender);
+      const chatBox = document.getElementById("chatBox");
+      const messageElement = document.createElement("div");
+      messageElement.classList.add("message", `${sender}-message`);
+
+      try {
+        const jsonData = JSON.parse(message);
+        // messageElement.innerHTML = generateDeviceInfoHTML(jsonData);
+        messageElement.innerHTML = message
+      } catch (e) {
+            
+        messageElement.innerHTML = message.replace(/\n/g, '<br>');
+      }
+
+      chatBox.appendChild(messageElement);
+      chatBox.scrollTop = chatBox.scrollHeight; // Scroll to the latest message
+    }
+
+    function parseTableData(message) {
+      const lines = message.split('\n');
+      const tableData = { headers: [], rows: [] };
+      let isHeader = true;
+
+      lines.forEach(line => {
+        if (line.includes('|')) {
+          const cells = line.split('|').map(cell => cell.trim()).filter(cell => cell);
+          if (isHeader) {
+            tableData.headers = cells;
+            isHeader = false;
+          } else {
+            tableData.rows.push(cells);
+          }
+        }
+      });
+
+      return tableData;
+    }
+
+    function generateTableHTML(tableData) {
+      let tableHTML = '<table border="1" style="width:100%; border-collapse: collapse;">';
+      tableHTML += '<thead><tr>';
+      tableData.headers.forEach(header => {
+        tableHTML += `<th>${header}</th>`;
+      });
+      tableHTML += '</tr></thead><tbody>';
+      tableData.rows.forEach(row => {
+        tableHTML += '<tr>';
+        row.forEach(cell => {
+          tableHTML += `<td>${cell}</td>`;
+        });
+        tableHTML += '</tr>';
+      });
+      tableHTML += '</tbody></table>';
+      return tableHTML;
+    }
+
+    function generateDeviceInfoHTML(data) {
+      return `
+        <ul>
+          <li><strong>devID:</strong> ${data.devID}</li>
+          <li><strong>Name:</strong> ${data.Name}</li>
+          <li><strong>Group:</strong> ${data.Group}</li>
+          <li><strong>SubGroup:</strong> ${data.SubGroup}</li>
+          <li><strong>LastUpdated:</strong> ${data.LastUpdated}</li>
+          <li><strong>Status:</strong> ${data.Status}</li>
+          <li><strong>Warning:</strong> ${data.Warning}</li>
+        </ul>
+      `;
+    }
+    
+    document.getElementById("userInput").addEventListener("keypress", function(event) {
+      if (event.key === "Enter") {
+        sendMessage();
+      }
+    });
+    
+    async function resetChat() {
+      console.log('Resetting chat');
+      const chatBox = document.getElementById("chatBox");
+      chatBox.innerHTML = "";
+
+      const response = await fetch("http://192.168.21.250:5000/reset", {
+        method: "POST",
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
+
+      if (!response.ok) {
+        throw new Error('Network response was not ok');
+      }
+
+      const data = await response.json();
+      console.log('Chat reset:', data.message);
+    }
+  </script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+2025-01-10 09:01:56,418 - ERROR - 'dev_name'
+
+2025-01-10 09:03:05,223 - ERROR - 'dev_name'
+
+2025-01-10 10:39:00,299 - ERROR - Error during execute function
+response: search_device_by_name
+Function name: search_device_by_name
+Arguments: {'dev_name': 'chùa dat', 'dev_id': 'ID_chùa_dat'}
+Exception: search_device_by_name() got an unexpected keyword argument 'dev_id'
+
+2025-01-10 10:45:09,182 - ERROR - 'dev_name'
+

@@ -1,0 +1,141 @@
+2025-01-09 10:02:38,758 - ERROR - bad operand type for unary +: 'str'
+
+2025-01-09 10:02:48,374 - ERROR - bad operand type for unary +: 'str'
+
+2025-01-09 10:05:31,902 - ERROR - bad operand type for unary +: 'str'
+
+2025-01-09 10:21:37,883 - ERROR - Error during execute function
+response: [search_device_by_name(dev_name='đúng')]
+Function name: search_device_by_name
+Arguments: {'dev_name': 'đúng'}
+Exception: 'Name'
+
+2025-01-09 10:21:38,536 - ERROR - Error during execute function
+response: [search_device_by_name(dev_name='đúng')]
+Function name: search_device_by_name
+Arguments: {'dev_name': 'đúng'}
+Exception: 'Name'
+
+2025-01-09 10:21:39,184 - ERROR - Error during execute function
+response: [search_device_by_name(dev_name='đúng')]
+Function name: search_device_by_name
+Arguments: {'dev_name': 'đúng'}
+Exception: 'Name'
+
+2025-01-09 10:29:59,202 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F123456', 'Name': 'Quang Trung - Xo Vi\u00e0i', 'Group': 'M\u1ed1ng \u0111\u1ec7ng \u0111\u1ec7ng \u0111\u1ec7ng', 'SubGroup': 'V\u01b0\u1ec7ng 1', 'LastUpdated': '2022-01-01 12:00:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 10:30:03,666 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F123456', 'Name': 'Quang Trung - Xo Vi\u00e0i', 'Group': 'M\u1ed1ng \u0111\u1ec7ng \u0111\u1ec7ng \u0111\u1ec7ng', 'SubGroup': 'V\u01b0\u1ec7ng 1', 'LastUpdated': '2022-01-01 12:00:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 10:30:08,178 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F123456', 'Name': 'Quang Trung - Xo Vi\u00e0i', 'Group': 'M\u1ed1ng \u0111\u1ec7ng \u0111\u1ec7ng \u0111\u1ec7ng', 'SubGroup': 'V\u01b0\u1ec7ng 1', 'LastUpdated': '2022-01-01 12:00:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:01:18,815 - ERROR - Error during execute function
+response: [search_device_by_name(Name='thiết bị quang trung')]
+Function name: search_device_by_name
+Arguments: {'Name': 'thiết bị quang trung'}
+Exception: 'str' object is not callable
+
+2025-01-09 11:01:19,457 - ERROR - Error during execute function
+response: [search_device_by_name(Name='thiết bị quang trung')]
+Function name: search_device_by_name
+Arguments: {'Name': 'thiết bị quang trung'}
+Exception: 'str' object is not callable
+
+2025-01-09 11:01:20,101 - ERROR - Error during execute function
+response: [search_device_by_name(Name='thiết bị quang trung')]
+Function name: search_device_by_name
+Arguments: {'Name': 'thiết bị quang trung'}
+Exception: 'str' object is not callable
+
+2025-01-09 11:18:45,470 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'ng\u01b0y\u01b0ng c\u1ec3ng tr\u1ec7', 'Group': 'M\u01b0\u1ec7ng L\u1ec7u\u1ec7ng \u0111\u01b9p \u0111\u01b9ng \u0111\u01b9ng \u0111\u01b9ng', 'SubGroup': 'V\u01b9ng 1', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 11:18:50,993 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'ng\u01b0y\u01b0ng c\u1ec3ng tr\u1ec7', 'Group': 'M\u01b0\u1ec7ng L\u1ec7u\u1ec7ng \u0111\u01b9p \u0111\u01b9ng \u0111\u01b9ng \u0111\u01b9ng', 'SubGroup': 'V\u01b9ng 1', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 11:18:56,511 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'ng\u01b0y\u01b0ng c\u1ec3ng tr\u1ec7', 'Group': 'M\u01b0\u1ec7ng L\u1ec7u\u1ec7ng \u0111\u01b9p \u0111\u01b9ng \u0111\u01b9ng \u0111\u01b9ng', 'SubGroup': 'V\u01b9ng 1', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 11:21:38,841 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'ng\u01b0y\u01b4ng c\u1ec3ng tr\u1ec7', 'Group': 'M\u01b0\u1ec7ng L\u1ec7u \u01b0\u1ec7ng \u01b0\u1ec7ng \u01b0\u1ec7ng \u01b0\u1ec7ng', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 11:21:43,875 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'ng\u01b0y\u01b4ng c\u1ec3ng tr\u1ec7', 'Group': 'M\u01b0\u1ec7ng L\u1ec7u \u01b0\u1ec7ng \u01b0\u1ec7ng \u01b0\u1ec7ng \u01b0\u1ec7ng', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 11:21:48,918 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'ng\u01b0y\u01b4ng c\u1ec3ng tr\u1ec7', 'Group': 'M\u01b0\u1ec7ng L\u1ec7u \u01b0\u1ec7ng \u01b0\u1ec7ng \u01b0\u1ec7ng \u01b0\u1ec7ng', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 11:27:20,993 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F16021', 'Name': 'T\u00e1n Phong', 'Group': 'M\u01b0ng L\u01b0\u1ec7i C\u00e0p N\u00f4ng', 'SubGroup': 'V\u01b9ng 3', 'LastUpdated': '2025-01-03 15:41:06', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:27:24,959 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F16021', 'Name': 'T\u00e1n Phong', 'Group': 'M\u01b0ng L\u01b0\u1ec7i C\u00e0p N\u00f4ng', 'SubGroup': 'V\u01b9ng 3', 'LastUpdated': '2025-01-03 15:41:06', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:27:28,926 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F16021', 'Name': 'T\u00e1n Phong', 'Group': 'M\u01b0ng L\u01b0\u1ec7i C\u00e0p N\u00f4ng', 'SubGroup': 'V\u01b9ng 3', 'LastUpdated': '2025-01-03 15:41:06', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:34:39,996 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F16017', 'Name': 'Đồng Hồ NG\u1ed1i C\u01b3ng Tr\u1ec7', 'Group': 'MẠNG LƯỚI CẤP NƯỚC TH\u00e0nh Ph\u01b0 H\u01b9', 'SubGroup': 'VÙNG 5', 'LastUpdated': '2025-01-03 15:45:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:34:44,322 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F16017', 'Name': 'Đồng Hồ NG\u1ed1i C\u01b3ng Tr\u1ec7', 'Group': 'MẠNG LƯỚI CẤP NƯỚC TH\u00e0nh Ph\u01b0 H\u01b9', 'SubGroup': 'VÙNG 5', 'LastUpdated': '2025-01-03 15:45:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:34:48,650 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F16017', 'Name': 'Đồng Hồ NG\u1ed1i C\u01b3ng Tr\u1ec7', 'Group': 'MẠNG LƯỚI CẤP NƯỚC TH\u00e0nh Ph\u01b0 H\u01b9', 'SubGroup': 'VÙNG 5', 'LastUpdated': '2025-01-03 15:45:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:39:30,954 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F17017', 'Name': 'ĐH B\u00e0i H\u1ed1c 17', 'Group': 'M\u00e1ng L\u00f4ng', 'SubGroup': 'V\u00f9ng 1', 'LastUpdated': '2022-01-01 00:00:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:39:35,740 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F17017', 'Name': 'ĐH B\u00e0i H\u1ed1c 17', 'Group': 'M\u00e1ng L\u00f4ng', 'SubGroup': 'V\u00f9ng 1', 'LastUpdated': '2022-01-01 00:00:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:39:40,476 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F17017', 'Name': 'ĐH B\u00e0i H\u1ed1c 17', 'Group': 'M\u00e1ng L\u00f4ng', 'SubGroup': 'V\u00f9ng 1', 'LastUpdated': '2022-01-01 00:00:00', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:40:07,346 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F17022', 'Name': 'ĐH B\u00e0i H\u1ed1c 22', 'Group': 'M\u00e1ng L\u00f4ng \u0111\u01b0\u1ed1c \u0111\u01b0\u1ed1c', 'SubGroup': 'V\u00f9ng 3', 'LastUpdated': '2025-01-03 15:40:18', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:40:13,202 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F17022', 'Name': 'ĐH B\u00e0i H\u1ed1c 22', 'Group': 'M\u00e1ng L\u00f4ng \u0111\u01b0\u1ed1c \u0111\u01b0\u1ed1c', 'SubGroup': 'V\u00f9ng 3', 'LastUpdated': '2025-01-03 15:40:18', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 11:40:18,985 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F17022', 'Name': 'ĐH B\u00e0i H\u1ed1c 22', 'Group': 'M\u00e1ng L\u00f4ng \u0111\u01b0\u1ed1c \u0111\u01b0\u1ed1c', 'SubGroup': 'V\u00f9ng 3', 'LastUpdated': '2025-01-03 15:40:18', 'Status': 'ONL', 'Warning': 'N.A'}}
+
+2025-01-09 12:01:27,975 - ERROR - Can't parse function
+Response: {'status':'success', 'data': {'dev_id': 'dev1', 'name': 'Nguyễn Công Trứ','model': 'Đồng hồ số'}
+
+2025-01-09 12:01:29,390 - ERROR - Can't parse function
+Response: {'status':'success', 'data': {'dev_id': 'dev1', 'name': 'Nguyễn Công Trứ','model': 'Đồng hồ số'}
+
+2025-01-09 12:01:30,791 - ERROR - Can't parse function
+Response: {'status':'success', 'data': {'dev_id': 'dev1', 'name': 'Nguyễn Công Trứ','model': 'Đồng hồ số'}
+
+2025-01-09 13:57:02,427 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'Đồng hồ Nguyễn Công Tr\u00f4ng', 'Group': 'M\u1ed1ng \u0111\u1ec7i \u0111\u01b3p \u0111\u01b3p \u0111\u01b3p \u0111\u01b3p', 'SubGroup': 'V\u01b0\u1ec7ng 1', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 13:57:07,324 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'Đồng hồ Nguyễn Công Tr\u00f4ng', 'Group': 'M\u1ed1ng \u0111\u1ec7i \u0111\u01b3p \u0111\u01b3p \u0111\u01b3p \u0111\u01b3p', 'SubGroup': 'V\u01b0\u1ec7ng 1', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 13:57:12,251 - ERROR - Can't parse function
+Response: {'status':'success', 'device': {'devID': 'F98649', 'Name': 'Đồng hồ Nguyễn Công Tr\u00f4ng', 'Group': 'M\u1ed1ng \u0111\u1ec7i \u0111\u01b3p \u0111\u01b3p \u0111\u01b3p \u0111\u01b3p', 'SubGroup': 'V\u01b0\u1ec7ng 1', 'LastUpdated': '2025-01-03 15:33:56', 'Status': 'ONL', 'Warning': 'N.A'}
+
+2025-01-09 14:28:55,530 - ERROR - local variable 'response' referenced before assignment
+
+2025-01-09 14:30:16,597 - ERROR - local variable 'response' referenced before assignment
+
+2025-01-09 14:32:37,074 - ERROR - string index out of range
+
+2025-01-09 15:01:55,965 - ERROR - Can't parse function
+Response: Dưới đây là danh sách các công cụ đã được sử dụng:
+
+1. `search_device_by_name`: Tìm kiếm thiết bị theo tên thiết bị.
+2. `get_weather`: Lấy thông tin thời tiết cho một địa điểm cụ thể trong khoảng thời gian xác định.
+
+Nếu bạn muốn sử dụng một trong những công cụ này lại, hãy gọi tên công cụ và cung cấp các tham số cần thiết.
+
+2025-01-09 16:31:11,516 - ERROR - The following `model_kwargs` are not used by the model: ['topp'] (note: typos in the generate arguments will also show up in this list)
+
+2025-01-09 16:47:44,124 - ERROR - 'Name'
+

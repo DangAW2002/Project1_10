@@ -1,0 +1,1325 @@
+{
+    "0": {
+        "devID": "F16003",
+        "Name": "ĐH HÀ HUY TẬP-GIẢI PHÓNG D150",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:45:11",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "1": {
+        "devID": "F16004",
+        "Name": "ĐH ĐẦU RA BỂ THĂNG LONG DN250",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:46:49",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "2": {
+        "devID": "F16007",
+        "Name": "ĐH LÊ DUẨN (ĐỐI DIỆN GIÁO XỨ KIM MAI) DN200",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:44:53",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "3": {
+        "devID": "F16009",
+        "Name": "ĐH BỂ PHAN CHU TRINH VỀ PHỐ DN250",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 4",
+        "LastUpdated": "2025-01-03 15:46:59",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "4": {
+        "devID": "F16010",
+        "Name": "ĐH TĂNG ÁP BỂ PHAN CHU TRINH D200",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 4",
+        "LastUpdated": "2025-01-03 15:46:52",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "5": {
+        "devID": "F16011",
+        "Name": "ĐH Thôn 8 _ Cưbua",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 4",
+        "LastUpdated": "2025-01-03 15:42:09",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "6": {
+        "devID": "F16013",
+        "Name": "ĐH ĐẠT LÝ D100(trường Nguyễn thị Minh Khai)",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 4",
+        "LastUpdated": "2025-01-03 15:41:44",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "7": {
+        "devID": "F16014",
+        "Name": "ĐH HÙNG VƯƠNG - AMA KHÊ D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 4",
+        "LastUpdated": "2025-01-03 15:41:38",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "8": {
+        "devID": "F16015",
+        "Name": "ĐH NGÔ QUYỀN-LÊ THỊ HỒNG GẤM D250",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 5",
+        "LastUpdated": "2024-12-30 07:28:56",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "9": {
+        "devID": "F16016",
+        "Name": "ĐH TÂN PHONG D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 5",
+        "LastUpdated": "2025-01-03 15:44:58",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "10": {
+        "devID": "F16018",
+        "Name": "ĐH NGUYỄN THỊ MINH KHAI  DN150",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 3",
+        "LastUpdated": "2025-01-03 15:46:33",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "11": {
+        "devID": "F16020",
+        "Name": "ĐH NGUYỄN CÔNG TRỨ _ LÝ THƯỜNG KIỆT (D200) ",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 3",
+        "LastUpdated": "2025-01-03 15:41:06",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "12": {
+        "devID": "F16021",
+        "Name": "ĐH XÔ VIẾT NGHỆ TĨNH-HOÀNG DIỆU D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:33:54",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "13": {
+        "devID": "F17010",
+        "Name": "ĐH NGUYỄN TẤT THÀNH - LTT D150 ( Coop Mark)",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:31:23",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "14": {
+        "devID": "F17011",
+        "Name": "ĐH TỈNH ĐOÀN D150",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:40:10",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "15": {
+        "devID": "F17015",
+        "Name": "ĐH HÀ HUY TẬP - GIẢI PHÓNG D80",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:31:55",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "16": {
+        "devID": "F17016",
+        "Name": "ĐH LÊ HỒNG PHONG- PHAN BỘI CHÂU D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 3",
+        "LastUpdated": "2025-01-03 15:45:33",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "17": {
+        "devID": "F17018",
+        "Name": "ĐH PHAN BỘI CHÂU - VIỆT NGUYÊN",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:35:28",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "18": {
+        "devID": "F17019",
+        "Name": "ĐH QUANG TRUNG - XÔ VIẾT NGHỆ TỈNH D200",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 3",
+        "LastUpdated": "2025-01-03 15:40:51",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "19": {
+        "devID": "F17020",
+        "Name": "ĐH ĐƯỜNG BỘ QLỘ 26 D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 4",
+        "LastUpdated": "2025-01-03 15:40:18",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "20": {
+        "devID": "F17022",
+        "Name": "ĐH ĐẶNG VĂN NGỮ D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 4",
+        "LastUpdated": "2025-01-03 15:45:48",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "21": {
+        "devID": "F98418",
+        "Name": "ĐH NGÃ TƯ LÊ THỊ HỒNG GẤM - HÀ HUY TẬP D150",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:35:01",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "22": {
+        "devID": "F98439",
+        "Name": "D150 TRẦN QUÝ CÁP",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:46:06",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "23": {
+        "devID": "F98481",
+        "Name": "ĐH Y Ngông - Mai Xuân Thưởng",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:45:05",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "24": {
+        "devID": "F98500",
+        "Name": "ĐH ĐẠT LÝ- CHÙA LIÊN TRÌ D80",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:35:09",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "25": {
+        "devID": "F98501",
+        "Name": "ĐH ĐÀO DUY TỪ D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:35:14",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "26": {
+        "devID": "F98502",
+        "Name": "ĐH PHAN BỘI CHÂUD100(NHÀ TANG LỄ)",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:12",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "27": {
+        "devID": "F98503",
+        "Name": "ĐH QUANG TRUNG - TRƯỜNG CHU VĂN AN D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:44",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "28": {
+        "devID": "F98505",
+        "Name": "ĐH MAI XUÂN THƯỞNG - PHAN BỘI CHÂU D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:35:05",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "29": {
+        "devID": "F98506",
+        "Name": "ĐH KHU TẬP THỂ NGÂN HÀNG D80",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:50",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "30": {
+        "devID": "F98508",
+        "Name": "ĐH TRƯỜNG TRINH - LÊ THỊ HỒNG GẤM D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:36:57",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "31": {
+        "devID": "F98509",
+        "Name": "ĐỒNG HỒ D400 ĐẦU RA BỂ CÔNG TY",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:46:54",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "32": {
+        "devID": "F98510",
+        "Name": "ĐH AMA JHAO D100",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2024-12-21 07:29:06",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "33": {
+        "devID": "F98511",
+        "Name": "ĐH NGUYỄN CƯ TRINH(HÙNG VƯƠNGD100)",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:35:04",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "34": {
+        "devID": "F98513",
+        "Name": "ĐH Y WANG _ LÊ DUẨN (D100)",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:39",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "35": {
+        "devID": "F98605",
+        "Name": "ĐH PHAN CHU TRINH - CHU VAN AN",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:45",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "36": {
+        "devID": "F98628",
+        "Name": "ĐH D100 TRƯƠNG CÔNG ĐỊNH (Sân Tenis)",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:34:06",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "37": {
+        "devID": "F98632",
+        "Name": "ĐH D80 HẺM 162 HÀ HUY TẬP",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:35:21",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "38": {
+        "devID": "F98634",
+        "Name": "ĐH D80 527 NGUYỄN VĂN CỪ",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:47",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "39": {
+        "devID": "F98635",
+        "Name": "ĐH D100 Y NUÊ - LÊ DUẪN",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:43:31",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "40": {
+        "devID": "F98636",
+        "Name": "ĐH D150 SỐ NHÀ 33 GIẢI PHÓNG",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:34:13",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "41": {
+        "devID": "F98637",
+        "Name": "ĐH Đ150 NGUYỄN VIẾT XUÂN - MAI HẮC ĐẾ",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:38:51",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "42": {
+        "devID": "F98638 ",
+        "Name": "ĐH D100 UBND XÃ HÒA XUÂN",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-01 08:05:02",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "43": {
+        "devID": "F98639",
+        "Name": "ĐH D100 Ngô Quyền - Ngô Gia Tự",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:35",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "44": {
+        "devID": "F98644",
+        "Name": "ĐH D200 NGÔ QUYỀN - TRẦN KHÁNH DƯ",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:20",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "45": {
+        "devID": "F98645",
+        "Name": "HÒA ĐÔNG 1 D100 (CÔ TAM)",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:46",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "46": {
+        "devID": "F98646",
+        "Name": "ĐH D100 NGUYỄN VĂN CỪ - VÕ THỊ SÁU",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:20",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "47": {
+        "devID": "F98648",
+        "Name": "ĐH D100 Y NGÔNG - HỒ TÙNG MẬU",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:35:12",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "48": {
+        "devID": "F98649",
+        "Name": "ĐH D100 NGUYỄN CÔNG TRỨ - HÙNG VƯƠNG",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:33:56",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "49": {
+        "devID": "F98668",
+        "Name": "ĐH D150 Số 87 Lý Thường Kiệt ",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:35:19",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "50": {
+        "devID": "F98675",
+        "Name": "ĐH D80 AGRIBANK HÒA XUÂN",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 6",
+        "LastUpdated": "2025-01-03 15:34:48",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "51": {
+        "devID": "F98676",
+        "Name": "ĐH D100 hẻm 03 Võ Văn Kiệt",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "0Undefined",
+        "LastUpdated": "2025-01-03 15:47:40",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "52": {
+        "devID": "F98679",
+        "Name": "ĐH D100 THÔN 4 XÃ HÒA KHÁNH",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:44:05",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "53": {
+        "devID": "F98680",
+        "Name": "ĐH D150 ĐÀI PHÁT THANH _ PHAN HUY CHÚ",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:45:15",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "54": {
+        "devID": "F98682",
+        "Name": "ĐH D100 NGUYỄN SINH SẮC",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:44:21",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "55": {
+        "devID": "F98684",
+        "Name": "Van cắt áp MAI HẮC ĐẾ- NGUYỄN VIẾT XUÂN",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:43:28",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "56": {
+        "devID": "F98687",
+        "Name": "Van cắt áp - 74 Y NGÔNG",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:44:54",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "57": {
+        "devID": "F98689",
+        "Name": "Van cắt áp PHẠM HỒNG THÁI - ĐINH TIÊN HOÀNG",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:32:57",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "58": {
+        "devID": "F98690",
+        "Name": "Van cắt áp - Xã HÒA XUÂN",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2022-06-29 09:55:46",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "59": {
+        "devID": "L98735",
+        "Name": "Đồng hồ D125 khối 15 Phan Huy Chú",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:46:59",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "60": {
+        "devID": "L98737",
+        "Name": "Trạm bơm TA buôn M DuK",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:39:47",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "61": {
+        "devID": "L98740",
+        "Name": "KHỐI 15 PHƯỜNG KHÁNH XUÂN",
+        "Group": "MẠNG LƯỚI CẤP NƯỚC THÀNH PHỐ BUÔN MA THUỘT",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:47:37",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "62": {
+        "devID": "F16005",
+        "Name": "LÊN BỂ HÒA THẮNG (EaM_Sen Ea_Chu_Cap  TL2_1 TL2_23) DN300",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:46:44",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "63": {
+        "devID": "F16008",
+        "Name": "DHồ EaM_Sen DN400",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "TRẠM BƠM",
+        "LastUpdated": "2025-01-03 15:46:22",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "64": {
+        "devID": "F16012",
+        "Name": "BỂ HÒA THẮNG VỀ PHỐ DN400",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:35:36",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "65": {
+        "devID": "f17005",
+        "Name": "Giếng TL2_1",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "VÙNG 5",
+        "LastUpdated": "2025-01-03 15:43:10",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "66": {
+        "devID": "F17007",
+        "Name": "ĐH TUYẾN GIẾNG KHOAN HÒA THẮNG D250",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:45:40",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "67": {
+        "devID": "F17013",
+        "Name": "ĐH NHÀ MÁY EA CHU CAP D300",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "TRẠM BƠM",
+        "LastUpdated": "2024-12-15 14:40:45",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "68": {
+        "devID": "F17025",
+        "Name": "TĂNG ÁP HÒA THẮNG D200",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:45:34",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "69": {
+        "devID": "F98417",
+        "Name": "GIẾNG KHOAN HT-10",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 10:02:00",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "70": {
+        "devID": "F98419",
+        "Name": "GIẾNG KHOAN HT-3",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 09:45:10",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "71": {
+        "devID": "F98435",
+        "Name": "GIẾNG KHOAN TL2-3",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:47:12",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "72": {
+        "devID": "F98436",
+        "Name": "GIẾNG KHOAN TL2-1",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2024-12-23 11:36:55",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "73": {
+        "devID": "F98504",
+        "Name": "GIẾNG KHOAN HT-8",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 09:20:46",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "74": {
+        "devID": "F98507",
+        "Name": "GIẾNG KHOAN HT-14",
+        "Group": "TRẠM BƠM EAM-SEN -  NHÀ MÁY EA CHƯ CÁP - BỂ HÒA THẮNG",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:37:40",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "75": {
+        "devID": "F15439",
+        "Name": "TRUYỀN TẢI CÔTAM D400",
+        "Group": "TRẠM BƠM CƯPUL",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2024-11-09 15:17:14",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "76": {
+        "devID": "F98512",
+        "Name": "ĐH TRUYỀN TẢI QL-26 D400",
+        "Group": "TRẠM BƠM CƯPUL",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:37:16",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "77": {
+        "devID": "F98524",
+        "Name": "ĐH BANG NGANG DONG",
+        "Group": "TRẠM BƠM CƯPUL",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-02 09:09:39",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "78": {
+        "devID": "F98604",
+        "Name": "GIẾNG KHOAN TL2-12 (7-2024)",
+        "Group": "TRẠM BƠM CƯPUL",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-02 16:56:24",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "79": {
+        "devID": "F98667",
+        "Name": "TĂNG ÁP CƯPUL",
+        "Group": "TRẠM BƠM CƯPUL",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:34:49",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "80": {
+        "devID": "L98724",
+        "Name": "Cưpul",
+        "Group": "TRẠM BƠM CƯPUL",
+        "SubGroup": "TRẠM BƠM",
+        "LastUpdated": "2024-09-27 13:15:27",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "81": {
+        "devID": "L98733",
+        "Name": "GK Thang loi",
+        "Group": "TRẠM BƠM CƯPUL",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2024-09-17 07:25:53",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "82": {
+        "devID": "F17008",
+        "Name": "ĐẦU VÀO BỂ TÂN AN D300",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:46:39",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "83": {
+        "devID": "F17027",
+        "Name": "ĐH ĐÀI NƯỚC ĐẠT LÝ VỀ PHỐ D300",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:47:05",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "84": {
+        "devID": "F98431",
+        "Name": "GIẾNG KHOAN ĐL - 5",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:34:50",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "85": {
+        "devID": "F98432",
+        "Name": "GIẾNG KHOAN ĐL - 6",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:46:39",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "86": {
+        "devID": "f98434",
+        "Name": "GIẾNG KHOAN CH-452",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2024-10-13 13:30:23",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "87": {
+        "devID": "F98515",
+        "Name": "GIẾNG KHOAN DL-12",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:35:36",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "88": {
+        "devID": "F98517",
+        "Name": "GIẾNG KHOAN DL-194",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2024-11-27 11:10:30",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "89": {
+        "devID": "F98520",
+        "Name": "GIẾNG KHOAN ĐL-14",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-02 10:14:17",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "90": {
+        "devID": "F98521",
+        "Name": "GIẾNG KHOAN ĐL-8",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:47:36",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "91": {
+        "devID": "F98611",
+        "Name": "ĐH TĂNG AP BỂ TÂN AN D200",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:34:50",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "92": {
+        "devID": "F98664",
+        "Name": "VAO DAI DAT LY",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:46:58",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "93": {
+        "devID": "f98666",
+        "Name": "GIẾNG KHOAN CH-450",
+        "Group": "TRẠM BƠM ĐẠT LÝ",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:47:02",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "94": {
+        "devID": "F17001",
+        "Name": "ĐH TRẠM BƠM CÔTAM D400",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "TRẠM BƠM",
+        "LastUpdated": "2025-01-03 15:45:21",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "95": {
+        "devID": "F98421",
+        "Name": "GIẾNG KHOAN TL-353",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:46:48",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "96": {
+        "devID": "F98422",
+        "Name": "GIẾNG KHOAN 351",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:45:31",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "97": {
+        "devID": "F98423",
+        "Name": "GIẾNG KHOAN - 352",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:44:58",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "98": {
+        "devID": "F98425",
+        "Name": "GIẾNG KHOAN TL2-7",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 14:16:52",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "99": {
+        "devID": "F98426",
+        "Name": "GIẾNG KHOAN 354",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:45:10",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "100": {
+        "devID": "F98427",
+        "Name": "GIẾNG KHOAN 355",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2024-11-22 21:44:32",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "101": {
+        "devID": "F98428",
+        "Name": "GIẾNG KHOAN KP - 23",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:45:12",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "102": {
+        "devID": "F98429",
+        "Name": "GIẾNG KHOAN TL-350",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:00:15",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "103": {
+        "devID": "F98430",
+        "Name": "GIẾNG KHOAN KP-20 ()",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2024-12-26 13:51:38",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "104": {
+        "devID": "F98523",
+        "Name": "GIẾNG KHOAN KP-21",
+        "Group": "TRẠM BƠM KOTAM -  CỤM GIẾNG KHOAN 35",
+        "SubGroup": "GIẾNG KHOAN",
+        "LastUpdated": "2025-01-03 15:36:45",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "105": {
+        "devID": "F17021",
+        "Name": "ĐH NƯỚC MẶT CN BUÔN HỒ D300",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:46:54",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "106": {
+        "devID": "F17023",
+        "Name": "ĐH CN BUÔN HỒ D300",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:45:00",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "107": {
+        "devID": "F17026",
+        "Name": "BƠM TĂNG ÁP NƯỚC NGẦM BUÔN HỒ",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "TRẠM BƠM",
+        "LastUpdated": "2025-01-03 15:46:19",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "108": {
+        "devID": "F18003",
+        "Name": "ĐH NGÔ MÂY D80",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:28",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "109": {
+        "devID": "F98414",
+        "Name": "ĐH 479 HÙNG VƯƠNG D200",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:47:02",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "110": {
+        "devID": "F98415",
+        "Name": "ĐỒNG HỒ LÊ QUÝ ĐÔN D100",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:00",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "111": {
+        "devID": "F98416",
+        "Name": "ĐẦU VÀO TRẠM BƠM NƯỚC NGẦM D150",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:47:09",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "112": {
+        "devID": "F98603",
+        "Name": "ĐH 03 NƠ TRANG LONG D100",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:09",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "113": {
+        "devID": "F98607",
+        "Name": "ĐH 557 HÙNG VƯƠNG D100",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:46:39",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "114": {
+        "devID": "F98608",
+        "Name": "ĐH 222 HÙNG VƯƠNG D150",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:22",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "115": {
+        "devID": "F98609",
+        "Name": "ĐH TĂNG ÁP CHI NHÁNH BUÔN HỒ D80",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:44:58",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "116": {
+        "devID": "F98612",
+        "Name": "ĐH CHÙA ĐẠT HIẾU D150",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:21",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "117": {
+        "devID": "F98615",
+        "Name": "ĐH ĐẦU RA DN300 CN BUÔN HỒ",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:44:54",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "118": {
+        "devID": "F98631",
+        "Name": "ĐH D100 HOÀNG QUỐC VIỆT(1135 HÙNG VƯƠNG)",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:43:17",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "119": {
+        "devID": "F98633",
+        "Name": "ĐH D80 1709 Hùng Vương",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:43:59",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "120": {
+        "devID": "F98640",
+        "Name": "ĐH D100 KỲ ĐỒNG  (1793 HÙNG VƯƠNG)",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:25",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "121": {
+        "devID": "F98641",
+        "Name": "ĐH D80 - 1200 HÙNG VƯƠNG VỀ BUÔN MA THUỘT",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:44:13",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "122": {
+        "devID": "F98643",
+        "Name": "ĐH D80 - 1200 HÙNG VƯƠNG VỀ BUÔN HỒ",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:36",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "123": {
+        "devID": "F98647",
+        "Name": "ĐH D100 AN DƯƠNG VƯƠNG(634 HÙNG VƯƠNG)",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:43:16",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "124": {
+        "devID": "F98681",
+        "Name": "ĐH D80 Duy Tân - Hùng Vương",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:34:26",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "125": {
+        "devID": "F98686",
+        "Name": "ĐH D80 LÝ CHÍNH THẮNG 2 ÁP LỰC ",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2023-07-18 17:06:11",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "126": {
+        "devID": "F98691",
+        "Name": "D80 LÝ CHÍNH THẮNG",
+        "Group": "CHI NHÁNH CẤP NƯỚC BUÔN HỒ",
+        "SubGroup": "VÀO BỂ",
+        "LastUpdated": "2025-01-03 15:44:39",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "127": {
+        "devID": "F17029",
+        "Name": "ĐẦU RA BỂ XỬ LÝ EA PỐK D250",
+        "Group": "CHI NHÁNH CẤP NƯỚC CƯM-GAR",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2024-12-27 03:17:01",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "128": {
+        "devID": "F98437",
+        "Name": "ĐH NGUỒN TĂNG CƯỜNG EA PỐK D200",
+        "Group": "CHI NHÁNH CẤP NƯỚC CƯM-GAR",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:45:38",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "129": {
+        "devID": "F98610",
+        "Name": "ĐH HÙNG VƯƠNG - PHAN BỘI CHÂU D200",
+        "Group": "CHI NHÁNH CẤP NƯỚC CƯM-GAR",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:45:36",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "130": {
+        "devID": "F98669",
+        "Name": "ĐH D100 GIẾNG ĐÀO QUẢNG PHÚ",
+        "Group": "CHI NHÁNH CẤP NƯỚC CƯM-GAR",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:47:43",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "131": {
+        "devID": "F17030",
+        "Name": "TRẠM BƠM CẤP II CN EA SÚP D200",
+        "Group": "CHI NHÁNH CẤP NƯỚC EA SÚP",
+        "SubGroup": "TRẠM BƠM",
+        "LastUpdated": "2021-11-19 14:00:19",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "132": {
+        "devID": "F98424",
+        "Name": "ÂU CƠ - HÙNG VƯƠNG D80",
+        "Group": "CHI NHÁNH CẤP NƯỚC EA SÚP",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:45:49",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "133": {
+        "devID": "F98674",
+        "Name": "ĐH D100 Hùng Vương - Nguyễn Trãi",
+        "Group": "CHI NHÁNH CẤP NƯỚC EA SÚP",
+        "SubGroup": "VÙNG 3",
+        "LastUpdated": "2024-12-07 22:26:03",
+        "Status": "OFF",
+        "Warning": "N.A"
+    },
+    "134": {
+        "devID": "F98678",
+        "Name": "ĐH D100 Nguyễn Trãi - Lạc long Quân",
+        "Group": "CHI NHÁNH CẤP NƯỚC EA SÚP",
+        "SubGroup": "VÙNG 4",
+        "LastUpdated": "2025-01-03 15:44:34",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "135": {
+        "devID": "F18001",
+        "Name": "ĐH ĐẦU RA BỂ CHI NHÁNH KRONG PAK D200",
+        "Group": "CHI NHÁNH CẤP NƯỚC KRÔNG PẮK",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:46:51",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "136": {
+        "devID": "F98412",
+        "Name": "QUANG TRUNG - TRẦN HƯNG ĐẠO D80",
+        "Group": "CHI NHÁNH CẤP NƯỚC KRÔNG PẮK",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:45:20",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "137": {
+        "devID": "F98413",
+        "Name": "QUANG TRUNG - LÊ HỒNG PHONG D100",
+        "Group": "CHI NHÁNH CẤP NƯỚC KRÔNG PẮK",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:46:34",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "138": {
+        "devID": "F98420",
+        "Name": "TĂNG ÁP KRÔNG PẮK",
+        "Group": "CHI NHÁNH CẤP NƯỚC KRÔNG PẮK",
+        "SubGroup": "TRẠM BƠM",
+        "LastUpdated": "2025-01-03 15:45:33",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "139": {
+        "devID": "F98514",
+        "Name": "ĐH LÊ DUẨN - QUANG TRUNG D80",
+        "Group": "CHI NHÁNH CẤP NƯỚC KRÔNG PẮK",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:53",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "140": {
+        "devID": "F16017",
+        "Name": "ĐH D150 NGUYỄN TẤT THÀNH ",
+        "Group": "CHI NHÁNH CẤP NƯỚC EA KAR",
+        "SubGroup": "RA BỂ",
+        "LastUpdated": "2025-01-03 15:47:07",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "141": {
+        "devID": "F98642",
+        "Name": "ĐH D200 ĐẦU RA CHI NHÁNH EA KAR",
+        "Group": "CHI NHÁNH CẤP NƯỚC EA KAR",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:44:37",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "142": {
+        "devID": "F16001",
+        "Name": "ĐH NGÃ TƯ SỞ ĐIỆN LỰC DN300",
+        "Group": "MẠNG LƯỚI ĐANG THEO DÕI",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:47:04",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "143": {
+        "devID": "F17014",
+        "Name": "UBND XÃ CƯBUA D150",
+        "Group": "MẠNG LƯỚI ĐANG THEO DÕI",
+        "SubGroup": "VÙNG 1",
+        "LastUpdated": "2025-01-03 15:47:09",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "144": {
+        "devID": "F98671",
+        "Name": "ĐH D100 NGÃ TƯ Y MOAL - VÀNH ĐAI ( SN 295 Y MOAL)",
+        "Group": "MẠNG LƯỚI ĐANG THEO DÕI",
+        "SubGroup": "VÙNG 5",
+        "LastUpdated": "2025-01-03 15:44:50",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "145": {
+        "devID": "F98683",
+        "Name": "Áp lực Ngã 3 HB- Tuyến Cupul",
+        "Group": "MẠNG LƯỚI ĐANG THEO DÕI",
+        "SubGroup": "VÙNG 2",
+        "LastUpdated": "2025-01-03 15:35:00",
+        "Status": "ONL",
+        "Warning": "N.A"
+    },
+    "146": {
+        "devID": "F98688",
+        "Name": "Áp lực Ngã 3 Hòa Bình (Tuyến Hòa Thắng)",
+        "Group": "MẠNG LƯỚI ĐANG THEO DÕI",
+        "SubGroup": "VÙNG 6",
+        "LastUpdated": "2025-01-03 15:33:57",
+        "Status": "ONL",
+        "Warning": "N.A"
+    }
+}

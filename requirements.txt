@@ -1,0 +1,4 @@
+dataclasses
+transformers
+torch
+gradio

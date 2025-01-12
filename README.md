@@ -1,13 +1,13 @@
 # Llama3 Demo
 
-This project demonstrates the use of Llama3 for various tasks such as fetching weather data, lottery results, and setting up servers. It includes a conversational interface using Gradio.
+This project demonstrates the use of Llama3 for various tasks such as fetching weather data, setting up servers, and searching devices. It includes a conversational interface using Gradio.
 
 ## Features
 
 - Parse function calls from text
 - Fetch weather data
-- Fetch lottery results
 - Set up servers
+- Search devices by ID or name
 - Conversational interface using Gradio
 
 ## Requirements
@@ -45,7 +45,7 @@ This project demonstrates the use of Llama3 for various tasks such as fetching w
 
 ## Project Structure
 
-- `scr/until.py`: Contains utility functions such as `parse_function_code`.
+- `scr/utils.py`: Contains utility functions such as `parse_function_code`.
 - `scr/prompt_custom.py`: Contains custom prompt functions.
 - `scr/state.py`: Contains state management functions.
 - `scr/function_call.py`: Contains function definitions for various tasks.

@@ -2,3 +2,4 @@ dataclasses
 transformers
 torch
 gradio
+numpy

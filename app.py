@@ -4,7 +4,6 @@ from scr.function_call import *
 from scr.app_logging import error_logger, state_logger, configure_logger  # Import error_logger and state_logger from logging.py
 from scr.timeout_guard import timeout_guard  # Import timeout_guard from timeout_guard.py
 from scr.state import state_1, state_2_pre, state_2, state_4, state_fix, state_plot, user_assistant_prompt, state_3_model, state_3_parse, state_3_result, state_3_searchdb  # Import state functions from state.py
-import matplotlib.pyplot as plt
 import numpy as np
 
 LENGTH = 100
